@@ -6,7 +6,7 @@
 # catalog-version 1.0
 Name:		texlive-logbox
 Version:	1.0
-Release:	10
+Release:	11
 Summary:	e-TeX showbox facilities for exploration purposes
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/logbox
