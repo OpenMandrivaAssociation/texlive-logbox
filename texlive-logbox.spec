@@ -3,7 +3,7 @@ Version:	24499
 Release:	2
 Summary:	e-TeX showbox facilities for exploration purposes
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/logbox
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/logbox
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/logbox.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/logbox.doc.r%{version}.tar.xz
